@@ -1,0 +1,7 @@
+*.py[cod]
+*.ipynb_checkpoints
+*.model
+*.log
+data/
+extracted_data/
+__pycache__/
