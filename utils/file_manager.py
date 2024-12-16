@@ -2,7 +2,6 @@
 import shutil
 import os
 import logging
-import csv
 from datasets import Dataset
 
 
