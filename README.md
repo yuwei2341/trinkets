@@ -14,6 +14,13 @@ This web application allows users to perform semantic searches across multiple P
 
 ---
 
+## Caveat
+The primary purpose is to search in OneNote-converted PDFs. Therefore,
+- it only supports non-image PDF, and
+- certain optimization is made toward such PDFs, e.g. removing bullet points
+
+---
+
 ## Installation
 
 ### Prerequisites
